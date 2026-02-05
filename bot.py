@@ -3,7 +3,7 @@ import time
 import json
 
 TOKEN = "BURAYA_BOT_TOKEN"
-URL = f"https://api.telegram.org/bot{8483969480:AAGlFsDGFu1aMOSpwDyTgzuySmsfGEQYK7U}/"
+URL = f"https://api.telegram.org/bot{"8483969480:AAGlFsDGFu1aMOSpwDyTgzuySmsfGEQYK7U"}/"
 
 beyin = {"ogrenilenler":{}}
 
